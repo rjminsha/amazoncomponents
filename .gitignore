@@ -8,4 +8,8 @@ build/
 .idea/
 application.yml
 *.hprof
+*.classpath
+*.project
+org.eclipse.jdt.core.prefs
+bin/
 

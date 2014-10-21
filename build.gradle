@@ -26,6 +26,7 @@ buildscript {
 
 apply plugin: 'spinnaker-gradle-project'
 apply plugin: 'groovy'
+apply plugin: 'eclipse'
 
 sourceCompatibility = 1.7
 targetCompatibility = 1.7
